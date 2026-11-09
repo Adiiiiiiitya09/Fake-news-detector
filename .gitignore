@@ -1,0 +1,6 @@
+data/
+archive.zip
+__pycache__/
+*.py[cod]
+.venv/
+venv/
